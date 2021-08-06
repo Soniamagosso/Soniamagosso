@@ -21,6 +21,8 @@
 <div style="margin: 10px"><br>
   <a href="mailto:soniamagosso@protonmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sonia-barros-bb0170112/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soniamagosso&layout=compact)](https://github.com/Soniamagosso/github-readme-stats)
     
    ![Snake animation](https://github.com/Soniamagosso/Soniamagosso/blob/output/github-contribution-grid-snake.svg)
 </div>
