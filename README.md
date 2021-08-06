@@ -5,7 +5,7 @@
 
 🚀📚 Estudando para ser uma Desenvolvedora Front-end
  
- <img align="right" width="25%" src="https://octodex.github.com/images/octoliberty.png" hspace="1%" alt="Meu avatar com um computador na mão">
+ <img align="right" width="10%" src="https://octodex.github.com/images/octoliberty.png" hspace="1%" alt="Meu avatar com um computador na mão">
 <div style="display: inline_block" style="margin: 10px"><br>
   <img align="center" alt="Js" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
@@ -22,5 +22,5 @@
   <a href="mailto:soniamagosso@protonmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Soniamagosso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-   ![Snake animation](https://github.com/NataliadeMenezes/NataliadeMenezes/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Soniamagosso/Soniamagosso/blob/output/github-contribution-grid-snake.svg)
 </div>
