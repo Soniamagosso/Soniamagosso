@@ -5,7 +5,7 @@
 
 🚀📚 Estudando para ser uma Desenvolvedora Front-end
  
- <img align="right" width="10%" src="https://octodex.github.com/images/octoliberty.png" hspace="1%" alt="Meu avatar com um computador na mão">
+ <img align="right" width="15%" src="https://octodex.github.com/images/octoliberty.png" hspace="1%" alt="Meu avatar com um computador na mão">
 <div style="display: inline_block" style="margin: 10px"><br>
   <img align="center" alt="Js" width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
