@@ -3,7 +3,6 @@
 
 :computer: :woman_student: Estou cursando Tecnologia da Informação na UNIVESP desde 2020
 
-🚀📚 Estudando para ser uma Desenvolvedora Front-end
  
  <img align="right" width="15%" src="https://octodex.github.com/images/octoliberty.png" hspace="1%" alt="Meu avatar com um computador na mão">
 <div style="display: inline_block" style="margin: 10px"><br>
