@@ -1,7 +1,7 @@
 ## Olá, Seja bem vindo(a)!!
 ## Eu sou **Sonia**
 
-:computer: :woman_student: Estou cursando Tecnologia da Informação na UNIVESP desde 2020
+:computer: :woman_student: Cursando Tecnologia da Informação na UNIVESP desde 2020
 
  
  <img align="right" width="15%" src="https://octodex.github.com/images/octoliberty.png" hspace="1%" alt="Meu avatar com um computador na mão">
